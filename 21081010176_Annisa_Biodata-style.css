@@ -1,0 +1,12 @@
+*,
+html{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar:hover{
+    background-color: olive;
+    transition: 0.25s ease-in-out;
+    transition-delay: 0.1s;
+    border-radius: 8px;
+}
